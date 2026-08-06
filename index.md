@@ -1,4 +1,4 @@
 ---
 title: Welcome to my blog!
 ---
-# I post my thoughts here.
+I post my thoughts here.
